@@ -1,4 +1,7 @@
 site_name: Useful Links Aurora OS
+site_author: Vitaliy Zarubin
+site_description: >-
+  Полезные ссылки которые могут пригодиться для разработки на Aurora OS
 
 # Repository
 repo_name: 'Useful Links Aurora OS'
@@ -6,9 +9,9 @@ repo_url: 'https://github.com/keygenqt/av-useful-links'
 
 # Navigation
 nav:
-  - 'Overview': index.md
-  - 'SDK':
-      - 'Index': sdk/index.md
+  - Home: index.md
+  - SDK:
+      - Index: sdk/index.md
       - 'Test': sdk/index.md
       - 'Test 2': sdk/index.md
   - 'Qt':
@@ -24,7 +27,6 @@ theme:
   language: 'ru'
   features:
     - content.action.edit
-    - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.tooltips
