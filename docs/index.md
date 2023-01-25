@@ -1,6 +1,6 @@
-Useful Links Aurora OS
+Полезные ссылки Aurora OS
 ===================
 
-Полезные ссылки которые могут пригодиться для разработки на Aurora OS.
-
 ![picture](/av-useful-links/data/aurora.png)
+
+Мини сайт с полезной инфой по Aurora OS

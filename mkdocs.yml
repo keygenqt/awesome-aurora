@@ -4,22 +4,26 @@ site_description: >-
   Полезные ссылки которые могут пригодиться для разработки на Aurora OS
 
 # Repository
-repo_name: 'Полезные ссылки Aurora OS'
+repo_name: 'Полезные ссылки'
 repo_url: 'https://github.com/keygenqt/av-useful-links'
 
 # Navigation
 nav:
-  - Home: index.md
-  - SDK:
-      - Index: sdk/index.md
-      - 'Test': sdk/index.md
-      - 'Test 2': sdk/index.md
-  - 'Qt':
-      - 'Index': qt/index.md
-  - 'KMM':
-      - 'Index': kmm/index.md
-  - 'Other':
-      - 'Index': other/index.md
+  - Главная:
+      Index: index.md
+      Aurora OS: https://auroraos.ru/
+      Устройства: https://auroraos.ru/devices
+      Документация: https://auroraos.ru/documentation
+  - Публикации:
+      - Index: publications/index.md
+      - Cтатьи: publications/articles.md
+      - Презентации: publications/presentations.md
+  - Примеры:
+      - Index: examples/index.md
+      - ViewModel (Qt/Qml): examples/view-model.md
+  - Open Source:
+      - Index: open-source/index.md
+      - Shop 7 in 1 : open-source/shop-7-1.md
 
 # Configuration
 theme:
