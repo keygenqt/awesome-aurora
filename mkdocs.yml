@@ -9,6 +9,8 @@ nav:
   - 'Overview': index.md
   - 'SDK':
       - 'Index': sdk/index.md
+      - 'Test': sdk/index.md
+      - 'Test 2': sdk/index.md
   - 'Qt':
       - 'Index': qt/index.md
   - 'KMM':
