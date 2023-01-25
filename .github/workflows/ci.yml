@@ -17,7 +17,6 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           python3 -m pip install mkdocs
-          python3 -m pip install mkdocs-material
 
       - name: Data
         run: |

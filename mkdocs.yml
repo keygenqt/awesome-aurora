@@ -10,11 +10,5 @@ nav:
 
 # Configuration
 theme:
-  name: 'material'
-  language: 'en'
-  palette:
-    primary: 'black'
-    accent: 'deep orange'
-  font:
-    text: 'Roboto'
-    code: 'JetBrains Mono'
+  name: null
+  custom_dir: 'cinder'
