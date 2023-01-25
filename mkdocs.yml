@@ -6,7 +6,14 @@ repo_url: 'https://github.com/keygenqt/av-useful-links'
 
 # Navigation
 nav:
-  - 'Overview': index.md
+  - 'SDK':
+      - 'Index': sdk/index.md
+  - 'Qt':
+      - 'Index': qt/index.md
+  - 'KMM':
+      - 'Index': kmm/index.md
+  - 'Other':
+      - 'Index': other/index.md
 
 # Configuration
 theme:
@@ -14,7 +21,6 @@ theme:
   language: 'ru'
   features:
     - content.action.edit
-    - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.tooltips
