@@ -1,0 +1,20 @@
+site_name: Useful Links Aurora OS
+
+# Repository
+repo_name: 'Useful Links Aurora OS'
+repo_url: 'https://github.com/keygenqt/av-useful-links'
+
+# Navigation
+nav:
+  - 'Overview': index.md
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'ru'
+  palette:
+    primary: 'black'
+    accent: 'deep orange'
+  font:
+    text: 'Roboto'
+    code: 'JetBrains Mono'
