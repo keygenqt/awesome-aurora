@@ -11,7 +11,7 @@ nav:
 # Configuration
 theme:
   name: 'material'
-  language: 'ru'
+  language: 'en'
   palette:
     primary: 'black'
     accent: 'deep orange'
