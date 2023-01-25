@@ -3,8 +3,10 @@
 
 Полезные ссылки которые могут пригодиться для разработки на Aurora OS.
 
-<a href="https://keygenqt.github.io/km-shop/">
-<img src="data/see-more.gif" width="200"/>
-</a>
+<p>
+    <a href="https://keygenqt.github.io/km-shop/">
+        <img src="data/see-more.gif" width="200"/>
+    </a>
+</p>
 
-![aurora.png](data%2Faurora.png)
+[![aurora.png](data%2Faurora.png)](https://auroraos.ru/)
