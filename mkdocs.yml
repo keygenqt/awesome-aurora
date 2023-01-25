@@ -1,21 +1,30 @@
-site_name: Полезные ссылки Aurora OS
+site_name: Полезности Aurora OS
 site_author: Vitaliy Zarubin
 site_description: >-
-  Полезные ссылки которые могут пригодиться для разработки на Aurora OS
+  Полезности которые могут пригодиться для разработки на Aurora OS
 
 # Repository
-repo_name: 'Полезные ссылки'
+repo_name: 'Полезности Aurora OS'
 repo_url: 'https://github.com/keygenqt/av-useful-links'
 
 # Navigation
 nav:
   - Главная:
-      Index: index.md
-      Aurora OS: https://auroraos.ru/
-      Устройства: https://auroraos.ru/devices
-      Документация: https://auroraos.ru/documentation
+      - Index: index.md
+      - Qt Links:
+          - Qt: https://doc.qt.io/
+          - Layouts: https://doc.qt.io/QT-5/qtquicklayouts-overview.html
+      - Aurora Docs:
+          - Иконки: https://community.omprussia.ru/documentation/software_development/reference/icons.html
+          - Компоненты: https://community.omprussia.ru/documentation/software_development/reference/silica/silica-reference.html
+      - Aurora Links:
+          - SDK: https://www.omp.ru/sdk
+          - Aurora OS: https://auroraos.ru/
+          - Устройства: https://auroraos.ru/devices
+          - Документация: https://auroraos.ru/documentation
   - Публикации:
       - Index: publications/index.md
+      - Видео: publications/video.md
       - Cтатьи: publications/articles.md
       - Презентации: publications/presentations.md
   - Примеры:
