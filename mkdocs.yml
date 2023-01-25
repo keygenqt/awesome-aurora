@@ -25,6 +25,13 @@ nav:
       - Index: open-source/index.md
       - Shop 7 in 1 : open-source/shop-7-1.md
 
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
 # Configuration
 theme:
   name: 'material'
