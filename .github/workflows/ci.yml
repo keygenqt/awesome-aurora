@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   deploy:
-    runs-on: macos-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
@@ -26,4 +26,4 @@ jobs:
 
       - name: Build site
         run: |
-          mkdocs gh-deploy --force
+          python3 -m mkdocs gh-deploy --force
