@@ -3,7 +3,7 @@
 
 <p>
     <a href="https://keygenqt.github.io/av-useful-links/">
-        <img src="data/see-more.gif" width="200"/>
+        <img src="data/see_more.gif" width="200"/>
     </a>
 </p>
 
