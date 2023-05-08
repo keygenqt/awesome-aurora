@@ -5,7 +5,7 @@ Shop 7 in 1
 
 [https://github.com/keygenqt/km-shop](https://github.com/keygenqt/km-shop)
 
-![picture](/av-useful-links/data/shop7in1.png)
+![picture](../data/shop7in1.png)
 
 ```
 Copyright 2023 Vitaliy Zarubin

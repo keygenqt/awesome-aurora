@@ -3,8 +3,8 @@
 
 Различного рода публикации которые помогут <s>войти в Айти</s> разобраться в Aurora OS
 
-* [Видео](/av-useful-links/publications/video/)
-* [Cтатьи](/av-useful-links/publications/articles/)
-* [Презентации](/av-useful-links/publications/presentations/)
+* [Видео](../publications/video/)
+* [Cтатьи](../publications/articles/)
+* [Презентации](../publications/presentations/)
 
-![picture](/av-useful-links/data/publications.png)
+![picture](../data/publications.png)
