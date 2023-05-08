@@ -2,7 +2,7 @@
 ===================
 
 <p>
-    <a href="https://keygenqt.github.io/av-useful-links/">
+    <a href="https://keygenqt.github.io/awesome-aurora/">
         <img src="data/see_more.gif" width="200"/>
     </a>
 </p>
