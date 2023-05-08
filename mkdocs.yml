@@ -11,25 +11,20 @@ repo_url: 'https://github.com/keygenqt/awesome-aurora'
 nav:
   - Главная:
       - Index: index.md
-      - Qt Links:
-          - Qt: https://doc.qt.io/
-          - Layouts: https://doc.qt.io/QT-5/qtquicklayouts-overview.html
-      - Aurora Docs:
-          - Иконки: https://community.omprussia.ru/documentation/software_development/reference/icons.html
-          - Компоненты: https://community.omprussia.ru/documentation/software_development/reference/silica/silica-reference.html
-      - Aurora Links:
-          - SDK: https://www.omp.ru/sdk
-          - Aurora OS: https://auroraos.ru/
-          - Устройства: https://auroraos.ru/devices
-          - Документация: https://auroraos.ru/documentation
+      - Aврора:
+        - Портал разработчиков: https://developer.auroraos.ru/
+        - Aврора SDK: https://developer.auroraos.ru/doc/software_development/sdk/downloads#4-0-2-209
+        - Aврора Platform SDK: https://developer.auroraos.ru/doc/software_development/psdk/downloads#4-0-2-209
+        - UI Kit Aврора: https://www.figma.com/community/file/1070268277075531514/Aurora-4.0-UI-Kit
+      - Community Links:
+          - Telegram: https://t.me/aurora_devs
+          - Helps: https://keygenqt.github.io/articles/helps/
+          - YouTube: https://www.youtube.com/@AuroraOS
   - Публикации:
       - Index: publications/index.md
       - Видео: publications/video.md
       - Cтатьи: publications/articles.md
       - Презентации: publications/presentations.md
-  - Примеры:
-      - Index: examples/index.md
-      - ViewModel (Qt/Qml): examples/view-model.md
   - Open Source:
       - Index: open-source/index.md
       - Shop 7 in 1 : open-source/shop-7-1.md
