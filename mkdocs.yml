@@ -28,6 +28,8 @@ nav:
   - Open Source:
       - Index: open-source/index.md
       - Shop 7 in 1 : open-source/shop-7-1.md
+  - FAQ:
+      - Index: faq/index.md
 
 markdown_extensions:
   - pymdownx.highlight:
