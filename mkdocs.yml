@@ -28,6 +28,9 @@ nav:
   - Open Source:
       - Index: open-source/index.md
       - Shop 7 in 1 : open-source/shop-7-1.md
+  - Helps:
+      - Helps: helps/index.md
+      - Toast in Aurora OS: 'helps/_1/index.md'
   - FAQ:
       - Index: faq/index.md
 
