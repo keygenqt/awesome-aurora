@@ -26,45 +26,45 @@ nav:
       - Презентации: publications/presentations.md
   - Open Source:
       - Index: open-source/index.md
-          - Completed:
-            - AuroMinesweeper: open-source/AuroMinesweeper.md
-            - Aurora2048: open-source/Aurora2048.md
-            - Aurora OS Tower: open-source/Aurora_OS_Tower.md
-            - AuroraKat: open-source/AuroraKat.md
-            - AuroTris: open-source/AuroTris.md
-            - BarWal: open-source/BarWal.md
-            - Bf4fun: open-source/Bf4fun.md
-            - Cargo Dock: open-source/Cargo_Dock.md
-            - Code Reader: open-source/Code_Reader.md
-            - DjVu Viewer: open-source/DjVu_Viewer.md
-            - Editor: open-source/Editor.md
-            - FastChess: open-source/FastChess.md
-            - Fernschreiber: open-source/Fernschreiber.md
-            - File Browser for Sailfish_OS: open-source/File_Browser_for_Sailfish_OS.md.md
-            - Harbour advanced camera: open-source/Harbour_advanced_camera.md
-            - Harbour Mattermost: open-source/Harbour_Mattermost.md
-            - Lines for Sailfish OS: open-source/Lines_for_Sailfish_OS.md
-            - Maep Qt: open-source/Maep_Qt.md
-            - OSM Scout for Sailfish OS: open-source/OSM_Scout_for_Sailfish_OS.md
-            - Patience Deck: open-source/Patience_Deck.md
-            - QML Flappy Bird Clone: open-source/QML_Flappy_Bird_Clone.md
-            - RheniumBeta: open-source/RheniumBeta.md
-            - SailfishOS port of Quake2: open-source/SailfishOS_port_of_Quake2.md
-            - SailOTP: open-source/SailOTP.md
-            - SailTuner: open-source/SailTuner.md
-            - SeaPrint: open-source/SeaPrint.md
-            - Shop 7 in 1 : open-source/Shop_7_in_1.md
-            - Solar System for Sailfish OS: open-source/Solar_System_for_Sailfish OS.md
-            - Stellarium mobile: open-source/Stellarium_mobile.md
-            - Tooter β: open-source/Tooter.md
-            - Vampire Survivors для ОС Аврора: open-source/Vampire_Survivors_для_ОС_Аврора.md
-            - VNC Screen: open-source/VNC_Screen.md
-            - WebDRIVE2: open-source/WebDRIVE2.md
-            - Youtube pwa для ОС Аврора: open-source/Youtube_pwa_для_ОС_Аврора.md
-          - Developing:
-            - AuroCast: open-source/AuroCast.md
-            - GSP Info: open-source/GSP_Info.md
-            - Whoosh! In the Dungeon: open-source/Whoosh_In_the_Dungeon.md
+      - Completed:
+        - AuroMinesweeper: open-source/AuroMinesweeper.md
+        - Aurora2048: open-source/Aurora2048.md
+        - Aurora OS Tower: open-source/Aurora_OS_Tower.md
+        - AuroraKat: open-source/AuroraKat.md
+        - AuroTris: open-source/AuroTris.md
+        - BarWal: open-source/BarWal.md
+        - Bf4fun: open-source/Bf4fun.md
+        - Cargo Dock: open-source/Cargo_Dock.md
+        - Code Reader: open-source/Code_Reader.md
+        - DjVu Viewer: open-source/DjVu_Viewer.md
+        - Editor: open-source/Editor.md
+        - FastChess: open-source/FastChess.md
+        - Fernschreiber: open-source/Fernschreiber.md
+        - File Browser for Sailfish_OS: open-source/File_Browser_for_Sailfish_OS.md.md
+        - Harbour advanced camera: open-source/Harbour_advanced_camera.md
+        - Harbour Mattermost: open-source/Harbour_Mattermost.md
+        - Lines for Sailfish OS: open-source/Lines_for_Sailfish_OS.md
+        - Maep Qt: open-source/Maep_Qt.md
+        - OSM Scout for Sailfish OS: open-source/OSM_Scout_for_Sailfish_OS.md
+        - Patience Deck: open-source/Patience_Deck.md
+        - QML Flappy Bird Clone: open-source/QML_Flappy_Bird_Clone.md
+        - RheniumBeta: open-source/RheniumBeta.md
+        - SailfishOS port of Quake2: open-source/SailfishOS_port_of_Quake2.md
+        - SailOTP: open-source/SailOTP.md
+        - SailTuner: open-source/SailTuner.md
+        - SeaPrint: open-source/SeaPrint.md
+        - Shop 7 in 1 : open-source/Shop_7_in_1.md
+        - Solar System for Sailfish OS: open-source/Solar_System_for_Sailfish OS.md
+        - Stellarium mobile: open-source/Stellarium_mobile.md
+        - Tooter β: open-source/Tooter.md
+        - Vampire Survivors для ОС Аврора: open-source/Vampire_Survivors_для_ОС_Аврора.md
+        - VNC Screen: open-source/VNC_Screen.md
+        - WebDRIVE2: open-source/WebDRIVE2.md
+        - Youtube pwa для ОС Аврора: open-source/Youtube_pwa_для_ОС_Аврора.md
+      - Developing:
+        - AuroCast: open-source/AuroCast.md
+        - GSP Info: open-source/GSP_Info.md
+        - Whoosh! In the Dungeon: open-source/Whoosh_In_the_Dungeon.md
   - Helps:
       - Helps: helps/index.md
       - Toast in Aurora OS: 'helps/_1/index.md'
