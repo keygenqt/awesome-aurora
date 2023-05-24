@@ -26,43 +26,45 @@ nav:
       - Презентации: publications/presentations.md
   - Open Source:
       - Index: open-source/index.md
-      - Shop 7 in 1 : open-source/shop-7-1.md
-      - Aurora2048: open-source/Aurora2048.md
-      - AuroraKat: open-source/AuroraKat.md
-      - ytpwa: open-source/ytpwa.md
-      - FastChess: open-source/FastChess.md
-      - Bf4fun: open-source/Bf4fun.md
-      - AuroMinesweeper: open-source/AuroMinesweeper.md
-      - AuroTris: open-source/AuroTris.md
-      - RheniumBeta: open-source/RheniumBeta.md
-      - vs: open-source/vs.md
-      - harbour-vncscreen: open-source/harbour-vncscreen.md
-      - flappyAurora: open-source/flappyAurora.md
-      - harbour-lines: open-source/harbour-lines.md
-      - patience-deck: open-source/patience-deck.md
-      - sailfish-quake2: open-source/sailfish-quake2.md
-      - auroraos-tower: open-source/auroraos-tower.md
-      - Whoosh! In the Dungeon: open-source/Whoosh-In-the-Dungeon.md
-      - maep-qt: open-source/maep-qt.md
-      - osmscout-sailfish: open-source/osmscout-sailfish.md
-      - SailTuner: open-source/SailTuner.md
-      - AuroCast: open-source/AuroCast.md
-      - DjVu-Viewer: open-source/DjVu-Viewer.md
-      - sailfish-solarsystem: open-source/sailfish-solarsystem.md
-      - Stellarium-sailfishos: open-source/Stellarium-sailfishos.md
-      - harbour-fernschreiber: open-source/harbour-fernschreiber.md
-      - harbour-seaprint: open-source/harbour-seaprint.md
-      - sailotp: open-source/sailotp.md
-      - sailfish-barcode: open-source/sailfish-barcode.md
-      - harbour-tooter: open-source/harbour-tooter.md
-      - harbour-mattermost: open-source/harbour-mattermost.md
-      - WebDRIVE2: open-source/WebDRIVE2.md
-      - BarWal: open-source/BarWal.md
-      - cargodock: open-source/cargodock.md
-      - harbour-editor: open-source/harbour-editor.md
-      - harbour-file-browser: open-source/harbour-file-browser.md
-      - sailfish-gpsinfo: open-source/sailfish-gpsinfo.md
-      - harbour-advanced-camera: open-source/harbour-advanced-camera.md
+          - Completed:
+            - AuroMinesweeper: open-source/AuroMinesweeper.md
+            - Aurora2048: open-source/Aurora2048.md
+            - AuroraKat: open-source/AuroraKat.md
+            - auroraos-tower: open-source/auroraos-tower.md
+            - AuroTris: open-source/AuroTris.md
+            - BarWal: open-source/BarWal.md
+            - Bf4fun: open-source/Bf4fun.md
+            - Cargo Dock: open-source/cargodock.md
+            - DjVu-Viewer: open-source/DjVu-Viewer.md
+            - FastChess: open-source/FastChess.md
+            - flappyAurora: open-source/flappyAurora.md
+            - harbour-advanced-camera: open-source/harbour-advanced-camera.md
+            - harbour-editor: open-source/harbour-editor.md
+            - harbour-fernschreiber: open-source/harbour-fernschreiber.md
+            - harbour-file-browser: open-source/harbour-file-browser.md
+            - harbour-lines: open-source/harbour-lines.md
+            - harbour-mattermost: open-source/harbour-mattermost.md
+            - harbour-seaprint: open-source/harbour-seaprint.md
+            - harbour-tooter: open-source/harbour-tooter.md
+            - harbour-vncscreen: open-source/harbour-vncscreen.md
+            - maep-qt: open-source/maep-qt.md
+            - osmscout-sailfish: open-source/osmscout-sailfish.md
+            - patience-deck: open-source/patience-deck.md
+            - RheniumBeta: open-source/RheniumBeta.md
+            - sailfish-barcode: open-source/sailfish-barcode.md
+            - sailfish-quake2: open-source/sailfish-quake2.md
+            - sailfish-solarsystem: open-source/sailfish-solarsystem.md
+            - sailotp: open-source/sailotp.md
+            - SailTuner: open-source/SailTuner.md
+            - Shop 7 in 1 : open-source/shop-7-1.md
+            - Stellarium-sailfishos: open-source/Stellarium-sailfishos.md
+            - vs: open-source/vs.md
+            - WebDRIVE2: open-source/WebDRIVE2.md
+            - ytpwa: open-source/ytpwa.md
+          - Developing:
+            - AuroCast: open-source/AuroCast.md
+            - sailfish-gpsinfo: open-source/sailfish-gpsinfo.md
+            - Whoosh! In the Dungeon: open-source/Whoosh-In-the-Dungeon.md
   - Helps:
       - Helps: helps/index.md
       - Toast in Aurora OS: 'helps/_1/index.md'
