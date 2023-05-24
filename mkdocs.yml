@@ -29,42 +29,42 @@ nav:
           - Completed:
             - AuroMinesweeper: open-source/AuroMinesweeper.md
             - Aurora2048: open-source/Aurora2048.md
+            - Aurora OS Tower: open-source/Aurora_OS_Tower.md
             - AuroraKat: open-source/AuroraKat.md
-            - auroraos-tower: open-source/auroraos-tower.md
             - AuroTris: open-source/AuroTris.md
             - BarWal: open-source/BarWal.md
             - Bf4fun: open-source/Bf4fun.md
-            - Cargo Dock: open-source/cargodock.md
-            - DjVu-Viewer: open-source/DjVu-Viewer.md
+            - Cargo Dock: open-source/Cargo_Dock.md
+            - Code Reader: open-source/Code_Reader.md
+            - DjVu Viewer: open-source/DjVu_Viewer.md
+            - Editor: open-source/Editor.md
             - FastChess: open-source/FastChess.md
-            - flappyAurora: open-source/flappyAurora.md
-            - harbour-advanced-camera: open-source/harbour-advanced-camera.md
-            - harbour-editor: open-source/harbour-editor.md
-            - harbour-fernschreiber: open-source/harbour-fernschreiber.md
-            - harbour-file-browser: open-source/harbour-file-browser.md
-            - harbour-lines: open-source/harbour-lines.md
-            - harbour-mattermost: open-source/harbour-mattermost.md
-            - harbour-seaprint: open-source/harbour-seaprint.md
-            - harbour-tooter: open-source/harbour-tooter.md
-            - harbour-vncscreen: open-source/harbour-vncscreen.md
-            - maep-qt: open-source/maep-qt.md
-            - osmscout-sailfish: open-source/osmscout-sailfish.md
-            - patience-deck: open-source/patience-deck.md
+            - Fernschreiber: open-source/Fernschreiber.md
+            - File Browser for Sailfish_OS: open-source/File_Browser_for_Sailfish_OS.md.md
+            - Harbour advanced camera: open-source/Harbour_advanced_camera.md
+            - Harbour Mattermost: open-source/Harbour_Mattermost.md
+            - Lines for Sailfish OS: open-source/Lines_for_Sailfish_OS.md
+            - Maep Qt: open-source/Maep_Qt.md
+            - OSM Scout for Sailfish OS: open-source/OSM_Scout_for_Sailfish_OS.md
+            - Patience Deck: open-source/Patience_Deck.md
+            - QML Flappy Bird Clone: open-source/QML_Flappy_Bird_Clone.md
             - RheniumBeta: open-source/RheniumBeta.md
-            - sailfish-barcode: open-source/sailfish-barcode.md
-            - sailfish-quake2: open-source/sailfish-quake2.md
-            - sailfish-solarsystem: open-source/sailfish-solarsystem.md
-            - sailotp: open-source/sailotp.md
+            - SailfishOS port of Quake2: open-source/SailfishOS_port_of_Quake2.md
+            - SailOTP: open-source/SailOTP.md
             - SailTuner: open-source/SailTuner.md
-            - Shop 7 in 1 : open-source/shop-7-1.md
-            - Stellarium-sailfishos: open-source/Stellarium-sailfishos.md
-            - vs: open-source/vs.md
+            - SeaPrint: open-source/SeaPrint.md
+            - Shop 7 in 1 : open-source/Shop_7_in_1.md
+            - Solar System for Sailfish OS: open-source/Solar_System_for_Sailfish OS.md
+            - Stellarium mobile: open-source/Stellarium_mobile.md
+            - Tooter β: open-source/Tooter.md
+            - Vampire Survivors для ОС Аврора: open-source/Vampire_Survivors_для_ОС_Аврора.md
+            - VNC Screen: open-source/VNC_Screen.md
             - WebDRIVE2: open-source/WebDRIVE2.md
-            - ytpwa: open-source/ytpwa.md
+            - Youtube pwa для ОС Аврора: open-source/Youtube_pwa_для_ОС_Аврора.md
           - Developing:
             - AuroCast: open-source/AuroCast.md
-            - sailfish-gpsinfo: open-source/sailfish-gpsinfo.md
-            - Whoosh! In the Dungeon: open-source/Whoosh-In-the-Dungeon.md
+            - GSP Info: open-source/GSP_Info.md
+            - Whoosh! In the Dungeon: open-source/Whoosh_In_the_Dungeon.md
   - Helps:
       - Helps: helps/index.md
       - Toast in Aurora OS: 'helps/_1/index.md'
