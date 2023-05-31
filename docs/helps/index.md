@@ -3,4 +3,4 @@ Helps
 
 Ответы на различные вопросы
 
-![picture](../data/query.png)
+![picture](../assets/images/query.png)

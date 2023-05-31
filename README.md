@@ -6,4 +6,4 @@
     </a>
 </p>
 
-[![aurora.png](data%2Faurora.png)](https://auroraos.ru/)
+[![aurora.png](docs/assets/images/aurora.png)](https://auroraos.ru/)
