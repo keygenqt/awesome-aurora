@@ -5,4 +5,4 @@ Aurora OS Tower
 
 [https://github.com/savegame/auroraos-tower](https://github.com/savegame/auroraos-tower)
 
-![picture](../data/ru.sashikknox.towerjs.png)
+![picture](../assets/images/open-source/ru.sashikknox.towerjs.png)

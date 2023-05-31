@@ -5,4 +5,4 @@ FastChess
 
 [https://gitlab.com/Danyok/fastchess](https://gitlab.com/Danyok/fastchess)
 
-![picture](../data/harbour-shakkikello.png)
+![picture](../assets/images/open-source/harbour-shakkikello.png)

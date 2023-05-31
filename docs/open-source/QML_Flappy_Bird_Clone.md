@@ -5,4 +5,4 @@ QML Flappy Bird Clone
 
 [https://github.com/getflow/flappyAurora](https://github.com/getflow/flappyAurora)
 
-![picture](../data/tech.getflow.flappyAurora.png)
+![picture](../assets/images/open-source/tech.getflow.flappyAurora.png)

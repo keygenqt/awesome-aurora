@@ -3,4 +3,4 @@ Helps
 
 Ответы на различные вопросы
 
-![picture](../assets/images/query.png)
+![picture](../assets/images/common/query.png)

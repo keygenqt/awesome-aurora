@@ -5,4 +5,4 @@ Youtube pwa для ОС Аврора
 
 [https://gitlab.com/Danyok/ytpwa](https://gitlab.com/Danyok/ytpwa)
 
-![picture](../data/com.gitlab.danyok.ytpwa.png)
+![picture](../assets/images/open-source/com.gitlab.danyok.ytpwa.png)

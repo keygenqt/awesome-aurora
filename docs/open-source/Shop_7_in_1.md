@@ -5,4 +5,4 @@ Shop 7 in 1
 
 [https://github.com/keygenqt/km-shop](https://github.com/keygenqt/km-shop)
 
-![picture](../data/shop7in1.png)
+![picture](../assets/images/open-source/shop7in1.png)

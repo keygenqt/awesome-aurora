@@ -5,4 +5,4 @@ Code Reader
 
 [https://github.com/monich/sailfish-barcode](https://github.com/monich/sailfish-barcode)
 
-![picture](../data/harbour-barcode.png)
+![picture](../assets/images/open-source/harbour-barcode.png)

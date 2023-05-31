@@ -5,4 +5,4 @@ Solar System for Sailfish OS
 
 [https://github.com/zeburon/sailfish-solarsystem](https://github.com/zeburon/sailfish-solarsystem)
 
-![picture](../data/Solar_System_for_Sailfish_OS.png)
+![picture](../assets/images/open-source/Solar_System_for_Sailfish_OS.png)

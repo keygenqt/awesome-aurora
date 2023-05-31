@@ -5,4 +5,4 @@ SailTuner
 
 [https://git.whataco.de/medvedych/SailTuner](https://git.whataco.de/medvedych/SailTuner)
 
-![picture](../data/desktop-landscape.png)
+![picture](../assets/images/open-source/desktop-landscape.png)

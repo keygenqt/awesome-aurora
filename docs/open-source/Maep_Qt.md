@@ -5,4 +5,4 @@ Maep Qt
 
 [https://github.com/dcaliste/maep-qt](https://github.com/dcaliste/maep-qt)
 
-![picture](../data/harbour-maep-qt.png)
+![picture](../assets/images/open-source/harbour-maep-qt.png)

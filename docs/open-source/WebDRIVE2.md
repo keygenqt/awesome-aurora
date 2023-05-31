@@ -5,4 +5,4 @@ DRIVE2 WebView клиент для Aurora OS (собрана из исходны
 
 [https://github.com/khmaksim/WebDRIVE2](https://github.com/khmaksim/WebDRIVE2)
 
-![picture](../data/com.github.WebDRIVE2.png)
+![picture](../assets/images/open-source/com.github.WebDRIVE2.png)

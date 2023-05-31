@@ -5,4 +5,4 @@ Aurora2048
 
 [https://gitlab.com/Danyok/aurora2048](https://gitlab.com/Danyok/aurora2048)
 
-![picture](../data/io.github.danyok96.aurora2048.png)
+![picture](../assets/images/open-source/io.github.danyok96.aurora2048.png)

@@ -5,4 +5,4 @@ Mastodon клиент для Aurora OS (собрана из исходных к�
 
 [https://git.whataco.de/medvedych/harbour-tooter](https://git.whataco.de/medvedych/harbour-tooter)
 
-![picture](../data/harbour-tooterb.png)
+![picture](../assets/images/open-source/harbour-tooterb.png)

@@ -5,4 +5,4 @@ Whoosh! In the Dungeon
 
 [https://bitbucket.org/kzerot/drawspell/src/master/](https://bitbucket.org/kzerot/drawspell/src/master/)
 
-![picture](../data/Whoosh_In_the_Dungeon.png)
+![picture](../assets/images/open-source/Whoosh_In_the_Dungeon.png)

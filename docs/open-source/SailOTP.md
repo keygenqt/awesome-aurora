@@ -5,4 +5,4 @@ SailOTP
 
 [https://github.com/seiichiro0185/sailotp](https://github.com/seiichiro0185/sailotp)
 
-![picture](../data/harbour-sailotp.png)
+![picture](../assets/images/open-source/harbour-sailotp.png)

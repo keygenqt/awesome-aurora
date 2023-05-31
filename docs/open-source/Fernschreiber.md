@@ -5,4 +5,4 @@ Fernschreiber
 
 [https://git.whataco.de/medvedych/harbour-fernschreiber](https://git.whataco.de/medvedych/harbour-fernschreiber)
 
-![picture](../data/harbour-fernschreiber.png)
+![picture](../assets/images/open-source/harbour-fernschreiber.png)

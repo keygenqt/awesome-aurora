@@ -5,4 +5,4 @@ GSP Info
 
 [https://github.com/balta3/sailfish-gpsinfo](https://github.com/balta3/sailfish-gpsinfo)
 
-![picture](../data/harbour-gpsinfo.png)
+![picture](../assets/images/open-source/harbour-gpsinfo.png)

@@ -5,4 +5,4 @@ Harbour advanced camera
 
 [https://github.com/piggz/harbour-advanced-camera](https://github.com/piggz/harbour-advanced-camera)
 
-![picture](../data/harbour-advanced-camera.png)
+![picture](../assets/images/open-source/harbour-advanced-camera.png)

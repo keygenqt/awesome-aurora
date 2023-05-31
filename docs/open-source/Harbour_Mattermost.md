@@ -5,4 +5,4 @@ Mattermost клиент для Aurora OS (собрана из исходных �
 
 [https://gitlab.com/sashikknox/harbour-mattermost](https://gitlab.com/sashikknox/harbour-mattermost)
 
-![picture](../data/harbour-mattermost.png)
+![picture](../assets/images/open-source/harbour-mattermost.png)

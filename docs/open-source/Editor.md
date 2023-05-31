@@ -5,4 +5,4 @@ Editor.
 
 [https://github.com/GoAlexander/harbour-editor](https://github.com/GoAlexander/harbour-editor)
 
-![picture](../data/harbour-editor.png)
+![picture](../assets/images/open-source/harbour-editor.png)

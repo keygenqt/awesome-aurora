@@ -5,4 +5,4 @@ BarWal
 
 [https://github.com/a-dekker/BarWal](https://github.com/a-dekker/BarWal)
 
-![picture](../data/harbour-barwal.png)
+![picture](../assets/images/open-source/harbour-barwal.png)

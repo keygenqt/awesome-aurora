@@ -5,4 +5,4 @@ AuroMinesweeper
 
 [https://gitlab.com/Danyok/aurominesweeper](https://gitlab.com/Danyok/aurominesweeper)
 
-![picture](../data/com.gitlab.Danyok.AuroMinesweeper.png)
+![picture](../assets/images/open-source/com.gitlab.Danyok.AuroMinesweeper.png)

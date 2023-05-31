@@ -5,4 +5,4 @@ OSM Scout for Sailfish OS
 
 [https://github.com/Karry/osmscout-sailfish](https://github.com/Karry/osmscout-sailfish)
 
-![picture](../data/osmscout-sailfish.png)
+![picture](../assets/images/open-source/osmscout-sailfish.png)

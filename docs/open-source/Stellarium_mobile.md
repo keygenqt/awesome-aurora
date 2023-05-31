@@ -5,4 +5,4 @@ Stellarium mobile
 
 [https://github.com/sailfishos-chum/Stellarium-sailfishos](https://github.com/sailfishos-chum/Stellarium-sailfishos)
 
-![picture](../data/stellarium.png)
+![picture](../assets/images/open-source/stellarium.png)

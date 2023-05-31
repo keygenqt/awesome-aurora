@@ -5,4 +5,4 @@ AuroTris
 
 [https://gitlab.com/Danyok/aurotris](https://gitlab.com/Danyok/aurotris)
 
-![picture](../data/io.github.danyok96.aurotris.png)
+![picture](../assets/images/open-source/io.github.danyok96.aurotris.png)

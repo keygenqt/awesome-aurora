@@ -5,4 +5,4 @@ File Browser for Sailfish OS
 
 [https://github.com/ichthyosaurus/harbour-file-browser](https://github.com/ichthyosaurus/harbour-file-browser)
 
-![picture](../data/harbour-file-browser.png)
+![picture](../assets/images/open-source/harbour-file-browser.png)

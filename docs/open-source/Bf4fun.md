@@ -5,4 +5,4 @@ Bf4fun
 
 [https://gitlab.com/Danyok/bf4fun](https://gitlab.com/Danyok/bf4fun)
 
-![picture](../data/io.github.danyok96.bf4fun.png)
+![picture](../assets/images/open-source/io.github.danyok96.bf4fun.png)

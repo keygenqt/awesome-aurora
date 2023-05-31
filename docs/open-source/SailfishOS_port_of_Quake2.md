@@ -5,4 +5,4 @@ SailfishOS port of Quake2
 
 [https://github.com/savegame/sailfish-quake2](https://github.com/savegame/sailfish-quake2)
 
-![picture](../data/sailfish-quake2.png)
+![picture](../assets/images/open-source/sailfish-quake2.png)

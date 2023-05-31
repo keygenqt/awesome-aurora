@@ -7,4 +7,4 @@
 * [Cтатьи](../publications/articles/)
 * [Презентации](../publications/presentations/)
 
-![picture](../data/publications.png)
+![picture](../assets/images/common/publications.png)

@@ -5,4 +5,4 @@ VNC клиент для Aurora OS (собрана из исходных кодо
 
 [https://github.com/marcellodgl/harbour-vncscreen](https://github.com/marcellodgl/harbour-vncscreen)
 
-![picture](../data/harbour-vncscreen.png)
+![picture](../assets/images/open-source/harbour-vncscreen.png)

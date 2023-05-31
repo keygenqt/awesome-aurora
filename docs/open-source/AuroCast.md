@@ -5,4 +5,4 @@ AuroCast
 
 [https://github.com/erhoof/AuroCast](https://github.com/erhoof/AuroCast)
 
-![picture](../data/com.github.erhoof.aurocast.png)
+![picture](../assets/images/open-source/com.github.erhoof.aurocast.png)

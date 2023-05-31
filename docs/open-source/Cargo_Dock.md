@@ -5,4 +5,4 @@ Cargo Dock
 
 [https://github.com/Wedmer/cargodock](https://github.com/Wedmer/cargodock)
 
-![picture](../data/harbour-cargodock256.png)
+![picture](../assets/images/open-source/harbour-cargodock256.png)

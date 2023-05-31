@@ -5,4 +5,4 @@ Patience Deck
 
 [https://github.com/Tomin1/patience-deck](https://github.com/Tomin1/patience-deck)
 
-![picture](../data/patience-deck.png)
+![picture](../assets/images/open-source/patience-deck.png)

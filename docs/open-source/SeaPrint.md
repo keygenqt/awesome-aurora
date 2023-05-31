@@ -5,4 +5,4 @@ SeaPrint
 
 [https://github.com/sprainbrains/harbour-seaprint](https://github.com/sprainbrains/harbour-seaprint)
 
-![picture](../data/harbour-seaprint.png)
+![picture](../assets/images/open-source/harbour-seaprint.png)

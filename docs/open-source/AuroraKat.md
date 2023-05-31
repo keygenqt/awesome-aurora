@@ -5,4 +5,4 @@ AuroraKat
 
 [https://gitlab.com/Danyok/aurorakat](https://gitlab.com/Danyok/aurorakat)
 
-![picture](../data/harbour-kat.png)
+![picture](../assets/images/open-source/harbour-kat.png)
