@@ -1,6 +1,8 @@
 Видео
 ===================
 
+* [Преимущества Авроры как профессиональной мобильной операционной системы. Тимур Хабибуллин, РИФ 2023](https://youtu.be/yTKSMzg5oas)
+* [Aurora, Server + macOS M1](https://youtu.be/Wk4YdCmyAkE)
 * [Роман Аляутдин, Денис Глазков — Разработка для ОС «Аврора»](https://youtu.be/s0AraORVyNw)
 * [Алексей Гладков — ОС «Аврора» глазами Android- и iOS-разработчика](https://youtu.be/vPbAHQy7OBw)
 * [Установка и настройка QEMU + Alpine Linux + Аврора Platform SDK](https://youtu.be/tEoVFhmMeTQ)
