@@ -78,11 +78,18 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+extra_css:
+  - /awesome-aurora/css/main.css
+  - assets/css/main.css
+
 # Configuration
 theme:
   name: 'material'
   language: 'ru'
   custom_dir: docs/assets
+  favicon: images/favicon.ico
+  icon:
+    logo: custom/icon
   features:
     - content.action.edit
     - content.code.annotate
