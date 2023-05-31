@@ -1,6 +1,6 @@
 Полезности Aurora OS
 ===================
 
-Мини сайт с полезной инфой по Aurora OS
+Мини сайт с полезной информацией по Aurora OS
 
-![picture](data/aurora.png)
+![picture](assets/images/aurora.png)

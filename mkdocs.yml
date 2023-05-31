@@ -82,6 +82,7 @@ markdown_extensions:
 theme:
   name: 'material'
   language: 'ru'
+  custom_dir: docs/assets
   features:
     - content.action.edit
     - content.code.annotate

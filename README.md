@@ -2,7 +2,7 @@
 ===================
 <p>
     <a href="https://keygenqt.github.io/awesome-aurora/">
-        <img src="data/see_more.gif" width="200"/>
+        <img src="docs/assets/images/see_more.gif" width="200"/>
     </a>
 </p>
 
