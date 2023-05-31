@@ -1,3 +1,32 @@
 p img[alt="picture"] {
     border-radius: 25px;
 }
+
+.videos {
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style-type: none !important;
+    font-size: 0;
+}
+
+.videos li {
+    display: inline-block;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 49%;
+    vertical-align: top;
+}
+
+.videos li:nth-child(2n) {
+    margin-left: 2% !important;
+}
+
+.videos li .title {
+    font-size: 16px;
+    padding: 5px 0 20px 0;
+    font-weight: bold;
+}
+
+.videos li img {
+    border-radius: 10px;
+}
