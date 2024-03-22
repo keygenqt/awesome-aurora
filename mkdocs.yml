@@ -90,9 +90,8 @@ theme:
   name: 'material'
   language: 'ru'
   custom_dir: docs/assets
-  favicon: images/favicon.ico
   icon:
-    logo: custom/icon
+    logo: material/library
   features:
     - content.action.edit
     - content.code.annotate
