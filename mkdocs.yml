@@ -13,12 +13,15 @@ nav:
       - Index: index.md
       - Aврора:
         - Портал разработчиков: https://developer.auroraos.ru/
-        - Aврора SDK: https://developer.auroraos.ru/doc/software_development/sdk/downloads#4-0-2-209
-        - Aврора Platform SDK: https://developer.auroraos.ru/doc/software_development/psdk/downloads#4-0-2-209
-        - UI Kit Aврора: https://www.figma.com/community/file/1070268277075531514/Aurora-4.0-UI-Kit
+        - Aврора SDK: https://developer.auroraos.ru/downloads/sdk/
+        - Aврора Platform SDK: https://developer.auroraos.ru/downloads/psdk/
+        - UI Kit Aврора 5: https://www.figma.com/community/file/1327649212960424543/5-ui-kit
+        - UI Kit Aврора 4: https://www.figma.com/community/file/1070268277075531514/Aurora-4.0-UI-Kit
       - Community Links:
         - Telegram: https://t.me/aurora_devs
         - YouTube: https://www.youtube.com/@AuroraOS
+        - VK Видео: https://vk.com/video/@aurora_os
+        - Вики (неофициальная): https://wiki.aurorahub.ru
   - Публикации:
       - Index: publications/index.md
       - Видео: publications/video.md
