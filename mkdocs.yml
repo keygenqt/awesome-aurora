@@ -22,7 +22,7 @@ nav:
         - YouTube: https://www.youtube.com/@AuroraOS
         - VK Видео: https://vk.com/video/@aurora_os
         - Вики (неофициальная): https://wiki.aurorahub.ru
-- Публикации:
+  - Публикации:
       - Index: publications/index.md
       - Видео: publications/video.md
       - Cтатьи: publications/articles.md
