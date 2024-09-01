@@ -29,44 +29,65 @@ nav:
       - Презентации: publications/presentations.md
   - Open Source:
       - Index: open-source/index.md
+      - OMP Russia:
+        - Примеры: open-source/omprussia.md
       - Completed:
         - AuroMinesweeper: open-source/AuroMinesweeper.md
         - Aurora2048: open-source/Aurora2048.md
         - Aurora OS Tower: open-source/Aurora_OS_Tower.md
         - AuroraKat: open-source/AuroraKat.md
         - AuroTris: open-source/AuroTris.md
-        - BarWal: open-source/BarWal.md
         - Bf4fun: open-source/Bf4fun.md
+        - Bluetooth терминал: open-source/bluetooth-spp-terminal-aurora.md
         - Cargo Dock: open-source/Cargo_Dock.md
         - Code Reader: open-source/Code_Reader.md
+        - DBusViewer: open-source/DBusViewer.md
+        - DevilutionX port of Diablo: open-source/DevilutionX.md
         - DjVu Viewer: open-source/DjVu_Viewer.md
+        - Doom 3: open-source/Doom3es.md
         - Editor: open-source/Editor.md
+        - Fallout 2: open-source/Fallout2ce.md
         - FastChess: open-source/FastChess.md
         - Fernschreiber: open-source/Fernschreiber.md
         - File Browser for Sailfish OS: open-source/File_Browser_for_Sailfish_OS.md
+        - GPS Info: open-source/GPS_Info.md
         - Harbour advanced camera: open-source/Harbour_advanced_camera.md
+        - Harbour books: open-source/Harbour_books.md
         - Harbour Mattermost: open-source/Harbour_Mattermost.md
         - Lines for Sailfish OS: open-source/Lines_for_Sailfish_OS.md
+        - Luna: open-source/Harbour_luna.md
         - Maep Qt: open-source/Maep_Qt.md
-        - OSM Scout for Sailfish OS: open-source/OSM_Scout_for_Sailfish_OS.md
+        - OBDFish: open-source/OBDFish.md
+        - OSM Scout: open-source/OSM_Scout.md
+        - Paint: open-source/Paint.md
         - Patience Deck: open-source/Patience_Deck.md
         - QML Flappy Bird Clone: open-source/QML_Flappy_Bird_Clone.md
+        - QML Прототип: open-source/QMLPrototyper.md
         - RheniumBeta: open-source/RheniumBeta.md
         - SailfishOS port of Quake2: open-source/SailfishOS_port_of_Quake2.md
+        - SailHub: open-source/Harbour-sailhub.md
         - SailOTP: open-source/SailOTP.md
         - SailTuner: open-source/SailTuner.md
         - SeaPrint: open-source/SeaPrint.md
         - Shop 7 in 1 : open-source/Shop_7_in_1.md
         - Solar System for Sailfish OS: open-source/Solar_System_for_Sailfish_OS.md
         - Stellarium mobile: open-source/Stellarium_mobile.md
+        - Sudoku: open-source/Harbour_sudoku.md
+        - Unplayer: open-source/Unplayer.md
         - Tooter β: open-source/Tooter.md
         - Vampire Survivors для ОС Аврора: open-source/Vampire_Survivors_для_ОС_Аврора.md
+        - VCMI port of Heroes 3: open-source/VCMI.md
         - VNC Screen: open-source/VNC_Screen.md
         - WebDRIVE2: open-source/WebDRIVE2.md
+        - Wifi analyzer: open-source/Wifianalyzer.md
         - Youtube pwa для ОС Аврора: open-source/Youtube_pwa_для_ОС_Аврора.md
+        - Блокнот: open-source/Notepad.md
+        - Кошелёк: open-source/ru.yurasov.wallet.md
+        - Мои посылки: open-source/my_parcels.md
+        - Пианино: open-source/Piano.md
       - Developing:
         - AuroCast: open-source/AuroCast.md
-        - GPS Info: open-source/GPS_Info.md
+        - BasicApp-Aurora: open-source/BasicApp-Aurora.md
         - Whoosh! In the Dungeon: open-source/Whoosh_In_the_Dungeon.md
   - Helps:
       - Helps: helps/index.md
